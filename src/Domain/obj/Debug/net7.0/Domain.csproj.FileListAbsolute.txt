@@ -1,0 +1,12 @@
+C:\Kode\Repos\CloudSAM\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Kode\Repos\CloudSAM\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Kode\Repos\CloudSAM\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Kode\Repos\CloudSAM\src\Domain\obj\Debug\net7.0\ref\Domain.dll
